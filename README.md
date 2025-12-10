@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muzza-mmil
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on wed development projects
+- 👀 I’m interested in data science
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me moloyede63@gmail.com
 
 <!---
